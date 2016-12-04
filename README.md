@@ -6,7 +6,7 @@ Based on the work of Tosil Velkov ([Link](https://github.com/Tvel/Youtube-dl-Win
 
 # Installation
 
-- Download [latest-release.zip](latest-release.zip)
+- Download [latest-release.zip](https://cdn.rawgit.com/doxakis/Youtube-dl-WinGui/master/latest-release.zip)
 - Extract zip file
 - (Optional) Create shortcut to Youtube-dl-WinGui.exe
 - Run Youtube-dl-WinGui.exe
