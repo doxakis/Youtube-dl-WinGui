@@ -1,11 +1,23 @@
-Youtube-dl-WinGui
-=================
+# Youtube-dl-WinGui
 
-Simple Windows Gui for youtube-dl
+Simple Windows Gui for downloading mp3 file from YouTube and [others](http://rg3.github.io/youtube-dl/supportedsites.html).
 
-You need the [youtube-dl.exe](http://rg3.github.io/youtube-dl/download.html) in the same directory.
+Based on the work of Tosil Velkov ([Link](https://github.com/Tvel/Youtube-dl-WinGui)).
 
-Optional [ffmpeg.exe](http://ffmpeg.zeranoe.com/builds/) for best video+audio options.
+# Installation
 
-Download latest [release here](https://github.com/Tvel/Youtube-dl-WinGui/releases/latest)
+- Download [latest-release.zip](latest-release.zip)
+- Extract zip file
+- (Optional) Create shortcut to Youtube-dl-WinGui.exe
+- Run Youtube-dl-WinGui.exe
 
+# Features
+
+- Download multiple mp3 files at the same time
+- It can download YouTube playlist and [more](http://rg3.github.io/youtube-dl/supportedsites.html)
+
+# Preview
+
+<p align="center">
+    <img alt="Preview" src="Preview.png" />
+</p>
